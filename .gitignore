@@ -1,0 +1,6 @@
+venv/*
+.ipynb_checkpoints
+.Trash-0
+.env
+__pycache__/*
+.idea/*
